@@ -1,0 +1,102 @@
+.img-div1{
+    background-image: url(../images/Rsots\ aa\ uo\ sã\ N15\ e\ epsa\ Pr\ Td\ Eto\ o\ f\ Hx.png);
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    
+}
+.img-div2{
+    
+    height: 400px;
+    display: inline-flex;
+}
+.texto2{
+    margin-left: 400px;
+    width: 700px;
+    margin-top: 30px;
+}
+.img-div3{
+    background-color: gray;
+    height: 600px;
+}
+.img-div4{
+    height: 600px;
+}
+.img1{
+    height: 350px;
+    width: 500px;
+    margin-left: 100px;
+    margin-top: 25px;
+}
+.img-pessoas{
+    height: 300px;
+    margin-left:15px ;
+    border-radius: 100%;
+}
+
+.h1_2{
+    
+    text-align: center;
+}
+.topo{
+    width: 100%;
+    position: fixed;
+}
+.baixo{
+    height: 50px;
+    width: 100%;
+    position: fixed;
+    background-color: aqua;
+    bottom: 0%;
+    display: inline-flex;
+}
+.baixopalavras{
+    margin: 10px auto;
+    display: inline-flex;
+}
+.bg-nav{
+    background-color: #338be3;
+}
+
+.grad{
+
+background-image: linear-gradient( #8957ff, #338Be3, #0d664b );
+
+}
+.textologo{
+    margin: 50px auto ;
+    background-color: white;
+    height: 500px;
+    width: 600px;
+}
+.imgfim{
+    margin-left: 100px;
+    width: 400px;
+}
+.imglogo{
+    margin: 50px auto ;
+    
+    height: 500px;
+    width: 600px;
+}
+.funcionarios{
+    align-items: center;
+    margin-left: 100px;
+    margin-top: 100px;
+    width: 250px;
+}
+.Fgeral{
+    display: inline-flex;
+}
+i{
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
